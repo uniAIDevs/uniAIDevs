@@ -5,10 +5,7 @@
 - 📫 How to reach me... (please don't sue me for my email) russia@hackermail.com, or reach out to my personal email: namelessonbandlab@gmail.com (I'm also a music producer.) You can also use the contact form below.
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I love creating music! I'm an experienced music producer, at the age of just 13. Reach out to me if you are a more knowledgeable AI developer who has worked on projects similar to Riffusion, Suno AI, or Soundful. I would love to know more about these technologies.
-
-<iframe
-  src="https://uqbsvxviprt.typeform.com/to/S9wvlHc1" 
-></iframe>
+- Contact form: https://uqbsvxviprt.typeform.com/to/S9wvlHc1
 <!---
 uniAIDevs/uniAIDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
